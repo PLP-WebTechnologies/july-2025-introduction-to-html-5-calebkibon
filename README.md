@@ -1,35 +1,41 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/jecSxI3G)
-# 📘 Assignment: HTML5 + Accessibility & SEO Basics
+# HTML5 Basics & Accessibility Challenge: My Semantic Webpage
 
-## Overview
+## 📘 Project Overview
 
-This assignment will help you solidify your understanding of modern HTML5 structure while applying foundational concepts of web accessibility and search engine optimization (SEO). You’ll create a simple, semantically correct web page that prioritizes both human and machine readability—two pillars of great web design.
+This project is a single HTML5 webpage built to solidify my understanding of modern HTML5 structure, web accessibility, and fundamental Search Engine Optimization (SEO) principles. As part of the PLP Academy's July 2025 Cohort, this assignment emphasizes creating a semantically correct and well-structured web page that prioritizes both human readability and machine interpretability.
 
-## Objective
+The goal was to demonstrate thoughtful planning of content hierarchy and robust use of HTML5 elements to ensure the page is discoverable by search engines and navigable by assistive technologies.
 
-Build a basic web page using HTML5 semantic tags, applying accessibility best practices and beginner-friendly SEO principles. Your final output should demonstrate a well-structured layout that supports screen readers and is optimized for discoverability.
+## ✨ Key Objectives Achieved
 
-## Guidelines
+* **HTML5 Semantic Structure:** The page is structured using appropriate HTML5 semantic tags (e.g., `<header>`, `<nav>`, `<main>`, `<section>`, `<article>`, `<footer>`) to define clear content areas.
+* **Accessibility Enhancements:** Incorporates HTML5 landmarks and attributes (where applicable) to improve navigation and comprehension for users relying on screen readers and other assistive technologies.
+* **Basic On-Page SEO:** Emphasizes correct heading tag hierarchy (`<h1>` to `<h6>`), descriptive content, and a clear, crawler-friendly structure to enhance discoverability.
+* **Clean & Readable Code:** The HTML is written with readability and maintainability in mind, reflecting a clear code structure.
 
-Use only HTML5. No CSS or JavaScript is required at this stage. Focus on using meaningful semantic elements to structure your page. Avoid using `<div>` or `<span>` unless absolutely necessary. Ensure your page has clearly defined sections such as a header, navigation, main content, and a footer.
+## 🛠️ Technologies Used
 
-Incorporate accessibility by using proper HTML5 landmarks and attributes that improve navigation for assistive technologies. Your HTML should reflect thoughtful planning of hierarchy and readability, both for users and search engines.
+* **HTML5:** Exclusively used for structuring the content of the webpage.
+    * **Note:** No CSS or JavaScript was used, strictly adhering to the assignment's guidelines for focusing solely on HTML fundamentals.
 
-For SEO, emphasize the use of heading tags in the correct order, provide descriptive text, and ensure your content is both human-readable and crawler-friendly. Consider how a search engine would interpret your page in terms of structure and content clarity.
+## 📁 Project Structure
 
-## Deliverables
+.
+└── index.html    # The main and only HTML file for the assignment
+└── README.md     # This README file
 
-A single HTML file named `index.html`. It should include:
 
-* A semantic structure using appropriate HTML5 elements.
-* Clear headings in a logical hierarchy.
-* Accessibility enhancements using proper tags and attributes.
-* SEO-friendly metadata and content.
+## 🌐 How to View
 
-## Tips
+1.  **Clone the repository** (if hosted on GitHub) or **download the `index.html` file**.
+2.  **Open `index.html`** in any web browser.
 
-* Use HTML5 semantic tags appropriately.
-* Organize content with accessibility in mind.
-* Apply basic on-page SEO techniques.
-* Follow clean, readable HTML code structure.
+Since this is a static HTML-only file, no local server or additional tools are required.
 
+## ✒️ Author
+
+**[Caleb Kiptoo]**
+* **GitHub:** [https://github.com/calebkibon](https://github.com/calebkibon)
+* **LinkedIn:** [Link to your LinkedIn Profile](https://www.linkedin.com/in/calebkibon/) (Optional)
+
+---
